@@ -3,6 +3,6 @@
 ## 분류
 ### JAVA
 * [JavaTest](https://github.com/wnsgudchl0302/TIL/blob/master/Java/JavaTest.md)
-* [변수와 상수](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Variable_and_Constant.md)
+* [1. 변수(Variable)와 상수(Constant)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Variable_and_Constant.md)
 ### JSP
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)

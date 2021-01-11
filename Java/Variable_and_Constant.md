@@ -5,9 +5,9 @@
     + [형 변환](#형-변환---type-casting)
 + [상수(Constant)](#상수---constant)
 
->## 변수 - Variable
+# 변수 - Variable
 
->> ## 변수의 자료형
+## 변수의 자료형
 + 숫자형    
     + 정수형
         + byte
@@ -50,7 +50,7 @@
 
 ---
 
->>## 형 변환 - Type casting
+## 형 변환 - Type casting
 ### 묵시적 형 변환
 작은 범위의 자료형을 더 큰 범위의 자료형에 넣으면 자동으로 형 변환이 일어나는 것
 
@@ -90,7 +90,7 @@ char b1 = 'a'
 String b2 = String.valueOf(b1);
 ```
 ---
->>## 상수 - Constant
+# 상수 - Constant
 상수란.. " 값이 변하지 않는 수 "
 ```
 상수 만드는 법

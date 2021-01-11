@@ -1,9 +1,9 @@
 # 변수(Variable)와 상수(Constant)
 ## 목록
-+ [변수(Variable)](#변수(Variable))
++ [변수(Variable)](#변수(variable))
     + [변수의 자료형](#변수의-자료형)
-    + [형 변환](#형-변환(Type-casting))
-+ [상수(Constant)](#상수(Constant))
+    + [형 변환](#형-변환(type-casting))
++ [상수(Constant)](#상수(constant))
 
 >## 변수(Variable)
 

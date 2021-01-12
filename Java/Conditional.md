@@ -4,7 +4,7 @@
 + [if~else](#if-else)
 + [if~else if~else](#if-else-if-else)
 + [switch~case](#switch-case)
-+ [향상된 switch-case](#향상된-switch~case)
++ [향상된 switch-case](#향상된-switch-case)
 ### 프로그래밍을 하다보면 경우의 수가 발생한다. 경우의 수를 처리하기위해서 조건문을 활용해야 한다.
 <br>
 

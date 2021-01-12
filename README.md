@@ -7,8 +7,9 @@
 * [2. 연산자(Operator)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Operator.md)
 * [3. 조건문(Conditional)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Conditional.md)
 * [4. 반복문(Loop)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Loop.md)
-* [5. 객체 지향 프로그래밍(object-oriented programming)]()
+* [5. 객체 지향 프로그래밍(object-oriented programming)](https://github.com/wnsgudchl0302/TIL)
     * [5.1 클래스와 객체](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Class_and_Object.md)
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)
+ 

@@ -9,7 +9,11 @@
 * [4. 반복문(Loop)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Loop.md)
 * [5. 객체 지향 프로그래밍(object-oriented programming)](https://github.com/wnsgudchl0302/TIL)
     * [5.1 클래스와 객체](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Class_and_Object.md)
+    <!--* [5.2 배열](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Array.md)
+    * [5.3 상속](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Inheritance.md)-->
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)
+* [1. JSP 프로그래밍 기초](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Basics_Jsp_Programming.md)
+<!--* [2. 폼 태그](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Form.md)-->
  

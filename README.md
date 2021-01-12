@@ -14,6 +14,6 @@
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)
-* [1. JSP 프로그래밍 기초](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Basics_Jsp_Programming.md)
+* [1. JSP 프로그래밍 기초](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/Basics_Jsp_Programming.md)
 <!--* [2. 폼 태그](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Form.md)-->
  

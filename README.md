@@ -22,5 +22,5 @@
 - [SpringTest](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/SpringTest.md)
 
 ### Coding Test
-- [Practice Test (Java)](https://github.com/wnsgudchl0302/TIL/blob/master/CodingTest/PracticeTest_Java.md)
+- [Practice Test (Java)](https://github.com/wnsgudchl0302/TIL/blob/master/CodingTest/Java/PracticeTest_Java.md)
  

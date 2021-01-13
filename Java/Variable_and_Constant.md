@@ -54,7 +54,7 @@
 ### 묵시적 형 변환
 작은 범위의 자료형을 더 큰 범위의 자료형에 넣으면 자동으로 형 변환이 일어나는 것
 
-```
+```java
 int i = 100;
 
 double d = i;
@@ -62,7 +62,7 @@ double d = i;
 ### 명시적 형 변환
 자료형의 범위가 큰 변수를 작은 변수로 변환
 
-```
+```java
 (자료형) 변수면(또는 리터럴)
 
 int a = 10000;
@@ -72,7 +72,7 @@ b = (short)a;
 ```
 
 문자열과 숫자 자료형 간의 형 변환
-```
+```java
 String a1 = "123";
 int a2 = Integer.parseInt(a1);
 String a3 = Integer.toString(a2);
@@ -92,7 +92,7 @@ String b2 = String.valueOf(b1);
 ---
 # 상수 - Constant
 상수란.. " 값이 변하지 않는 수 "
-```
+```java
 상수 만드는 법
 final [자료형] [변수명] = [리터럴];
 
@@ -101,7 +101,7 @@ final float PI = 3.14f;
 
 var를 이용하여 상수를 만들 때에는 초기화를 함께 해주어야 한다.
 
-```
+```java
 final var PI;        --> X
 final var PI = 3.14  --> O
 ```

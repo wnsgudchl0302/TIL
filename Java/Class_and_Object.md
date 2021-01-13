@@ -29,7 +29,7 @@
 - 객체의 기능을 구현
 - method, member function
 
-```
+```java
 public class Student {
 
 	public int StudentID;              //멤버변수
@@ -50,7 +50,7 @@ public class Student {
 - 객체의 기능을 구현하기 위해 클래스 내부에 구현되는 함수
 - 메서드를 구현함으로써 객체의 기능이 구현 됨
 
-```
+```java
 public class FunctionTest {
 
     //매개변수와 반환값이 있는 메서드
@@ -101,7 +101,7 @@ hello
 - 기본 생성자는 매개 변수가 없고, 구현부가 없음
 - 클래스에 다른 생성자가 있으면 기본 생성자는 제공되지 않는다.
 ## 생성자 오버로딩(constructor overloading)
-```
+```java
 public class Student {
 
 	public int studentID;              //멤버변수
@@ -122,7 +122,7 @@ public class Student {
 }
 ```
 # 참조 자료형 - reference data type
-```
+```java
 public class Subject {
 
 	String subjectName;
@@ -131,7 +131,7 @@ public class Subject {
 
 }
 ```
-```
+```java
 public class Student {
 
 	int studentID;      //기본 자료형
@@ -154,7 +154,7 @@ public class Student {
 # 정보 은닉
 ### private를 사용하여 정보 은닉
 ### private으로 선언한 변수를 Getter와 Setter를 사용하여 접근할 수 있다.
-```
+```java
 public class MyDate {
 	
 	private int day;
@@ -190,7 +190,7 @@ public class MyDate {
 	}	
 }
 ```
-```
+```java
 public class MyDateTest {
 
 	public static void main(String[] args) {
@@ -218,7 +218,7 @@ public class MyDateTest {
 - 생성자에서 다른 생성자를 호출함
 - 인스턴스 자신의 주소를 반환
 
-```
+```java
 public class Person {
 	String name;
 	int age;
@@ -239,7 +239,7 @@ public class Person {
 	}
 }
 ```
-```
+```java
 public class PersonTest {
 
 	public static void main(String[] args) {
@@ -265,7 +265,7 @@ Lee,20
 ## static 변수
 - 여러 인스턴스가 하나의 값을 공유할 필요가 있을 때 사용
 - 클래스 변수, 정적 변수라고도 말함
-```
+```java
 선언 Example
 public static int a = 1000;
 ```
@@ -273,7 +273,7 @@ public static int a = 1000;
 - static 변수를 위한 기능을 제공하는 static 메서드
 - static 메서드에서는 인스턴스 변수를 사용할 수 없다.
 - 클래스 메서드, 정적 메서드라고도 말함
-```
+```java
 public class Student {
 
 	private static int serialNum = 1000;
@@ -286,7 +286,7 @@ public class Student {
 
 # 싱글톤 패턴
 ## 단 하나만 존재하는 인스턴스 - singleton pattern
-```
+```java
 public class Company {
 
 	private static Company instance = new Company();
@@ -301,7 +301,7 @@ public class Company {
 	}
 }
 ```
-```
+```java
 public class CompanyTest {
 
 	public static void main(String[] args) {

@@ -20,7 +20,7 @@
 
 <br>
 
-```
+```java
 int a = 20;
 int b = 10;
 
@@ -44,7 +44,7 @@ System.out.println(a%b);
 
 # 증감 연산자
 ## 전치 증감 연산자
-```
+```java
 int a = 1;
 System.out.println(++a);
 
@@ -61,7 +61,7 @@ System.out.println(--b);
 <br>
 
 ## 후치 증감 연산자
-```
+```java
 int a = 1;
 System.out.println(a++);
 System.out.println(a);
@@ -94,7 +94,7 @@ System.out.println(b);
 
 <br>
 
-```
+```java
 int a = 1;
 int b = 2;
 
@@ -154,7 +154,7 @@ true
 
 <br>
 
-```
+```java
 int A = 10;
 
 System.out.println(A += 10);
@@ -176,7 +176,7 @@ System.out.println(A %= 10);
 <br>
 
 # 삼항 연산자
-```
+```java
 (조건식) ? 처리식1(참일 때 처리) : 처리식2(거짓일 때 처리) // 1항 ? 2항 : 3항
 
 int A = 10;

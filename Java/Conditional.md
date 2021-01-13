@@ -10,13 +10,13 @@
 
 # if
 ### if문을 만나 조건식이 true이면 실행문을 실행시킨다.
-```
+```java
 if문 사용법
 if(조건식) {
     실행문 <- 참일 경우에만 실행
 }
 ```
-```
+```java
 int a = 10;
 if(a%2==0){
     System.out.println("a는 짝수입니다.")
@@ -35,14 +35,14 @@ a는 짝수입니다.
 
 # if else
 ### 참이면 if문을 실행하고 거짓이면 else문을 실행한다.
-```
+```java
 if(조건식){
     실행문1 <- 참일 경우 실행
 }else {
     실행문2 <- 거짓일 경우 실행
 }
 ```
-```
+```java
 int a = 3;
 if(a%2==0){
     System.out.println("짝수 입니다.");
@@ -60,7 +60,7 @@ if(a%2==0){
 
 # if else if else
 ### 더 많은 조건들을 처리할수 있다.
-```
+```java
 if(조건식1){
 
     실행문1 <- 첫 번째 조건식이 참이면 실행
@@ -75,7 +75,7 @@ if(조건식1){
 
 }
 ```
-```
+```java
 int a = 3;
 if(a>0){
 
@@ -101,7 +101,7 @@ a는 0보다 큽니다.
 
 # switch case
 ### if문과 다르게 변수의 값이나 연산식이 비교값과 정확하게 일치하면 실행문을 처리한다.
-```
+```java
 switch(변수 or 연산식){
 
     case 비교값1 : (실행문1)
@@ -116,7 +116,7 @@ switch(변수 or 연산식){
     default : (실행문4)               
 }
 ```
-```
+```java
 int n = 3;
 switch(n){
     case 1 : System.out.println("1");
@@ -136,14 +136,14 @@ switch(n){
 <br>
 
 # 향상된 switch case
-```
+```java
 switch(변수 or 연산식){
     case 비교값1 -> (실행문1)
     case 비교값2, 비교값3 -> (실행문2)
     default -> (실행문3)
 }
 ```
-```
+```java
 int a = 3;
 switch(a){
 

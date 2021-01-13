@@ -1,5 +1,5 @@
 # Today I Ladrned :smiley:
-![Version](https://img.shields.io/badge/version-2021.01.11-blue.svg)
+![Version](https://img.shields.io/badge/version-2021.01.13-blue.svg)
 ## 분류
 ### JAVA
 * [JavaTest](https://github.com/wnsgudchl0302/TIL/blob/master/Java/JavaTest.md)

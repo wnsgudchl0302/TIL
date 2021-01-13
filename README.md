@@ -1,4 +1,4 @@
-# Today I Ladrned :smiley:
+# Today I Learned :smiley:
 ![Version](https://img.shields.io/badge/version-2021.01.13-blue.svg)
 ## 분류
 ### [My Coding Diary](https://github.com/wnsgudchl0302/TIL/blob/master/MyCodingDiary/MyCodingDiary.md) :date:

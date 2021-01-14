@@ -13,6 +13,7 @@
 * [6. 배열(Array)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Array.md)
 * [7. 상속(Inheritance)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Inheritance.md)
 * [8. 추상 클래스(AbstractClass)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/AbstractClass.md)
+* [9. 인터페이스(Interface)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Interface.md)
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)

@@ -12,6 +12,7 @@
 * [5. 클래스와 객체(Class and Object)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Class_and_Object.md)
 * [6. 배열(Array)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Array.md)
 * [7. 상속(Inheritance)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Inheritance.md)
+* [8. 추상 클래스(AbstractClass)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/AbstractClass.md)
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)

@@ -14,6 +14,7 @@
 * [7. 상속(Inheritance)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Inheritance.md)
 * [8. 추상 클래스(AbstractClass)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/AbstractClass.md)
 * [9. 인터페이스(Interface)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Interface.md)
+* [10. 오브젝트 클래스(ObjectClass)와 Class클래스](https://github.com/wnsgudchl0302/TIL/blob/master/Java/ObjectClass_and_ClassClass.md)
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)

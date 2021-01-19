@@ -54,5 +54,16 @@
     Java - 인터페이스, 인터페이스의 다형성, 인터페이스와 상속 <br>
     Java - 오브젝트 클래스(toString, equals, hashCode, clone), Class클래스
 
-    Database - 기초 쿼리문
+    Database - DML 쿼리문 
+
+    <br>
+
+- ## 19일
+    Java - String Class and Wrapper Class StringBuffer, StringBuilder<br>
+    Java - 제네릭 프로그래밍, 제네릭 메서드
+    Java - 컬렉션 프로그래밍, (Collection, Map, List)인터페이스, Stack, Queue
+
+    Database - DDL 쿼리문
+
+
         

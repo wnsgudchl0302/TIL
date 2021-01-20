@@ -45,31 +45,39 @@
 <br>
 
 - ## 14일
-    Java - 추상클래스, 템플릿 메서드 <br>
-    JSP - form 태그, 데이터베이스 활용
+    Java 
+    - 추상클래스, 템플릿 메서드
+
+    JSP 
+    - form 태그, 데이터베이스 활용
 
 <br>
 
 - ## 18일
-    Java - 인터페이스, 인터페이스의 다형성, 인터페이스와 상속 <br>
-    Java - 오브젝트 클래스(toString, equals, hashCode, clone), Class클래스
+    Java 
+    - 인터페이스, 인터페이스의 다형성, 인터페이스와 상속 <br> 
+    - 오브젝트 클래스(toString, equals, hashCode, clone), Class클래스
 
-    Database - DML 쿼리문 
+    Database
+    - DML 쿼리문 
 
     <br>
 
 - ## 19일
-    Java - String Class and Wrapper Class StringBuffer, StringBuilder<br>
-    Java - 제네릭 프로그래밍, 제네릭 메서드
-    Java - 컬렉션 프로그래밍, (Collection, Map, List)인터페이스, Stack, Queue
+    Java 
+    - String Class and Wrapper Class StringBuffer, StringBuilder<br>
+    - 제네릭 프로그래밍, 제네릭 메서드
+    - 컬렉션 프로그래밍, (Collection, Map, List)인터페이스, Stack, Queue
 
-    Database - DDL 쿼리문
+    Database 
+    - DDL 쿼리문
     
     <br>
 
 - ## 20일
-    Java - 컬렉션 프레임워크 (Set인터페이스 - HashSet, TreeSet, Comparable인터페이스) <br>
-    Java - 컬렉션 프레임워크 (Map인터페이스 - HashMap클래스, TreeMap클래스)
+    Java 
+    - 컬렉션 프레임워크 (Set인터페이스 - HashSet, TreeSet, Comparable인터페이스) <br>
+    - 컬렉션 프레임워크 (Map인터페이스 - HashMap클래스, TreeMap클래스)
     
 
 

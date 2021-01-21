@@ -18,6 +18,7 @@
 * [11. String Class and Wrapper Class](https://github.com/wnsgudchl0302/TIL/blob/master/Java/StringClass_and_WrapperClass.md)
 * [12. 제네릭 프로그래밍 GenericProgramming](https://github.com/wnsgudchl0302/TIL/blob/master/Java/GenericProgramming.md)
 * [13. 컬렉션 프레임워크 CollectionFramework](https://github.com/wnsgudchl0302/TIL/blob/master/Java/CollectionFramework.md)
+* [13. 내부클래스 InnerClass](https://github.com/wnsgudchl0302/TIL/blob/master/Java/InnerClass.md)
 ### JSP
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)

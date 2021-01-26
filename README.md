@@ -10,7 +10,7 @@
 * [3. 조건문(Conditional)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Conditional.md)
 * [4. 반복문(Loop)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Loop.md)
 * [5. 클래스와 객체(Class and Object)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Class_and_Object.md)
-* [6. 배열(Array)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Array.md)
+* [6. 배열(A rray)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Array.md)
 * [7. 상속(Inheritance)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Inheritance.md)
 * [8. 추상 클래스(AbstractClass)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/AbstractClass.md)
 * [9. 인터페이스(Interface)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Interface.md)

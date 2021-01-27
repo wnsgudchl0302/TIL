@@ -1,13 +1,13 @@
 # Thread
 ## 목록
 + [Thread 구현하기](#thread-구현하기)
-    +[extexds 사용](#extexds-사용)
-    +[Runnable사용](#runnable사용)
-+[interrupt 메서드](#interrupt-메서드)
-+[Multi Thread 프로그래밍](#multi-thread-프로그래밍)
-    +[synchronized 메서드 방식 동기화](#synchronized-메서드-방식-동기화)
-    +[synchronized 블록 방식 동기화](#synchronized-블록-방식-동기화)
-+[wait and notify](#wait-and-notify)
+    + [extexds 사용](#extexds-사용)
+    + [Runnable사용](#runnable사용)
++ [interrupt 메서드](#interrupt-메서드)
++ [Multi Thread 프로그래밍](#multi-thread-프로그래밍)
+    + [synchronized 메서드 방식 동기화](#synchronized-메서드-방식-동기화)
+    + [synchronized 블록 방식 동기화](#synchronized-블록-방식-동기화)
++ [wait and notify](#wait-and-notify)
 ## Thread
 - Process
     - 실행중인 프로그램

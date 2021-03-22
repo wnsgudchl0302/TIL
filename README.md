@@ -4,6 +4,10 @@
 ## 분류
 ### [My Coding Diary](https://github.com/wnsgudchl0302/TIL/blob/master/MyCodingDiary/MyCodingDiary.md) :date:
 ### JAVA
+<details>
+<summary>내용</summary>
+<div>
+
 * [JavaTest](https://github.com/wnsgudchl0302/TIL/blob/master/Java/JavaTest.md)
 * [1. 변수(Variable)와 상수(Constant)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Variable_and_Constant.md)
 * [2. 연산자(Operator)](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Operator.md)
@@ -24,16 +28,23 @@
 * [17. 입출력 스트림 Input_Ouput_Stream](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Input_Ouput_Stream.md)
 * [18. Thread](https://github.com/wnsgudchl0302/TIL/blob/master/Java/Thread.md)
 
-
-
-
+</div>
+</details>
+<br>
 
 ### JSP
+<details>
+<summary>내용</summary>
+<div>
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)
 * [1. JSP 프로그래밍 기초](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/Basics_Jsp_Programming.md)
 * [2. 폼 태그](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/Form.md)
 * [3. JSP와 데이터베이스](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/Database.md)
+
+</div>
+</details>
+<br>
 
 ### Spring
 - [SpringTest](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/SpringTest.md)

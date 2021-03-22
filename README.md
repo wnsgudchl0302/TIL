@@ -5,7 +5,7 @@
 ### [My Coding Diary](https://github.com/wnsgudchl0302/TIL/blob/master/MyCodingDiary/MyCodingDiary.md) :date:
 ### JAVA
 <details>
-<summary>내용</summary>
+<summary>내용 확인하기</summary>
 <div>
 
 * [JavaTest](https://github.com/wnsgudchl0302/TIL/blob/master/Java/JavaTest.md)
@@ -34,7 +34,7 @@
 
 ### JSP
 <details>
-<summary>내용</summary>
+<summary>내용 확인하기</summary>
 <div>
 
 * [JspTest](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JspTest.md)

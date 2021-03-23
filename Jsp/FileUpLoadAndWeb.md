@@ -1,46 +1,19 @@
 # 파일 업로드와 웹
 ## 목록
-+ [JSP 프로그램 기본형태](#JSP-프로그램-기본형태)
-    + [page 지시자](#page-지시자)
-    + [스크립틀릿](#스크립틀릿)
-+ [주석](#주석)
-+ [화면 출력하기](#화면-출력하기)
-# JSP 프로그램 기본형태
-- JSP 프로그램의 확장자는 ".jsp"이다.
-- 시작을 알리는 표시로 <% 를 사용하고 끝을 알리는 표시로 %> 를 사용한다.
-<br>
-<br>
++ [파일 업로드를 하기 위한 준비 작업](#파일-업로드를-하기-위한-준비-작업)
 
-## page 지시자
-```
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-```
-|`속성과 값`|`의미`|
-|:--- | :---  |
-|  language="java" | 프로그래밍 언어로 자바를 사용한다.  |
-| contentType="text/html; charset=UTF-8"  | 이 JSP 프로그램이 생성할 문서는 UTF-8로 인코딩된 HTML이다.  |
-| pageEncoding="UTF-8"` | 이 JSP 프로그램 파일은 UTF-8로 인코딩되어 있다.  |
-<br>
 
-## 스크립틀릿
-```
-<%
- out.println("JSP HELLO");
-%>
-```
-# 주석
-- 자바에서 사용하던 주석 //, /* ~ */은 html에서 텍스트로 인식한다.
-- \<!-- --> <%-- -->를 사용하면 된다.
-- \<!-- -->주석은 소스보기를 하면 보이지만 <%-- -->주석은 보이지 않는다.
 
-# 화면 출력하기
-```
-<%
-    out.print(출력할내용);
-%>
+## 파일 업로드를 하기 위한 준비 작업
+### O'Reilly의 COS 라이브러리 이용
+1. http://www.servlets.com/cos/ 에서 cos-20.08.zip 다운로드
+2. cos.jar 파일을 프로젝트 폴더 WebContent > WEB-INF > lib 폴더에 삽입
+3. 이클립스 라이브러리 적용
+4. tomcat 설정에서 Serve modules without publishing 체크
 
-하나의 내용을 출력하고 싶을 때 사용
-<%= 출력할 내용 %>
-
+## 파일 업로드 폼
+```jsp
+<input type = "file"> // <- 태그를 이용하여 받을 수 있다.
 ```
+[내용 확인하기](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/JSPPratice/WebContent/Chap07/7-1.html)
+

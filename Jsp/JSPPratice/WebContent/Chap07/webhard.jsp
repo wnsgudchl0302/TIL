@@ -54,13 +54,14 @@
 %>
 		<tr>
 			<td class="left">
-				<a href="files/<%=rs.getString("fname")%>">
+				<a href="../files/<%=rs.getString("fname")%>">
 					<%=rs.getString("fname") %>
 				</a>
 			</td>
 			<td><%=rs.getString("ftime") %></td>
 			<td class="right"><%=rs.getInt("fsize")%>&nbsp;&nbsp;</td>
 			<td><a href="del_file.jsp?num=<%=rs.getInt("num")%>">X</a></td>
+			
 		</tr>
 <%
 		}

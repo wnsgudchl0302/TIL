@@ -50,7 +50,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTP-8">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
@@ -58,5 +58,6 @@
 	alert('업로드 실패 !');
 	history.back();
 </script>
+
 </body>
 </html>

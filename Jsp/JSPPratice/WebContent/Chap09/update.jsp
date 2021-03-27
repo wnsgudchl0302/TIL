@@ -6,15 +6,15 @@
 <%
 	request.setCharacterEncoding("utf-8");
 
+	int num = Integer.parseInt(request.getParameter("num"));
 	String writer = request.getParameter("writer");
 	String title = request.getParameter("title");
 	String content = request.getParameter("content");
 	
 	if(writer == null || writer.length() == 0 ||
-		title == null || title.length() == 0 ||
-		content == null || content.length() ==0){
+			title == null || title.length() == 0 ||
+			content == null || content.length() ==0){
 %>
-
 	<script>
 		alert('모든 항목이 빈칸 없이 입력되어야 합니다.');
 		history.back();
@@ -36,19 +36,16 @@
 			String curTime = LocalDate.now() + " " + LocalTime.now().toString().substring(0,8);
 			
 			stmt.executeUpdate(String.format(
-					"insert into board " +
-					"(writer, title, content, regtime, hits)" +
-					"values ('%s','%s','%s','%s',0)",
-					writer, title, content, curTime
-					));
+					"update board set writer='%s', title='%s', "+
+					"content='%s', regtime='%s' where num = %d",
+					writer, title, content, curTime, num)					
+					);
 		
 	}catch(Exception e){
 		e.printStackTrace();
 	}
 	
-	response.sendRedirect("list.jsp");
-	
-	
+	response.sendRedirect("view.jsp?num=" + num);
 %>
 <!DOCTYPE html>
 <html>
@@ -57,6 +54,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
+
 </body>
 </html>

@@ -11,6 +11,8 @@
     - xml파일 작성
     - JAVA파일에 xml 변수 가져오기
     - 간단한 버튼 이벤트
+
+    SpringBoot - HttpMethod (getMethod)
     
 <br>
 

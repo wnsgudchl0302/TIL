@@ -54,6 +54,7 @@
 <div>
 
 * [SpringTest](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/SpringTest.md)
+* [HTTP_Mehod](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/HTTP_Method.md)
 
 </div>
 </details>

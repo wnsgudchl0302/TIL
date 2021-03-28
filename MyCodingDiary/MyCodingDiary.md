@@ -5,6 +5,12 @@
     JSP - 간단한 게시판 기능 구현해보기
 
     MyCodingDiary 글 순서 변경
+
+    Andriod 
+    - 상단바 이미지 삽입
+    - xml파일 작성
+    - JAVA파일에 xml 변수 가져오기
+    - 간단한 버튼 이벤트
     
 <br>
 

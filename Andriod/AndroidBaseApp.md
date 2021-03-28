@@ -1,4 +1,10 @@
 # AndroidBaseApp
++ [상단바 이미지](#상단바-이미지-넣기)
++ [xml파일 코드](#xml파일-코드)
++ [string.xml 사용법](#string.xml-사용법)
++ [버튼 이벤트](#버튼-클릭시-이벤트-활성-코드-작성해보기)
+
+<br>
 
 ## 상단바 이미지 넣기
 ```java
@@ -17,7 +23,7 @@ android:id="@+id/아이디이름" //아이디 설정
 
 android:text="@string/이름" //text설정 string.xml파일에서 문자열을 생성하고 사용할 수 있다.
 ```
-### string.xml 사용법
+## string.xml 사용법
 ```java
 <resources>
     <string name="이름">띄울 문자</string>

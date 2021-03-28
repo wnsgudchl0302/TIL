@@ -43,7 +43,7 @@
 * [3. JSP와 데이터베이스](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/Database.md)
 * [4. 파일 업로드와 간이 웹](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/FileUpLoadAndWeb.md)
 * [5. 쿠키, 세션 로그인](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/CookieAndSessionLogin.md)
-
+* [6. 게시판](https://github.com/wnsgudchl0302/TIL/blob/master/Jsp/Board.md)
 </div>
 </details>
 <br>

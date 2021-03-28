@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgudchl0302&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 분류
 ### [My Coding Diary](https://github.com/wnsgudchl0302/TIL/blob/master/MyCodingDiary/MyCodingDiary.md) :date:
-### JAVA
+### JAVA - 완료
 <details>
 <summary>내용 확인하기</summary>
 <div>
@@ -32,7 +32,7 @@
 </details>
 <br>
 
-### JSP
+### JSP - 진행중(70%)
 <details>
 <summary>내용 확인하기</summary>
 <div>
@@ -48,10 +48,18 @@
 </details>
 <br>
 
-### Spring
-- [SpringTest](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/SpringTest.md)
+### Spring - 진행중
+<details>
+<summary>내용 확인하기</summary>
+<div>
 
-### ANDROID
+* [SpringTest](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/SpringTest.md)
+
+</div>
+</details>
+<br>
+
+### ANDROID - 진행중(20%)
 <details>
 <summary>내용 확인하기</summary>
 <div>

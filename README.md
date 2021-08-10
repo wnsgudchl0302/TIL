@@ -3,6 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsgudchl0302&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 분류
 ### [My Coding Diary](https://github.com/wnsgudchl0302/TIL/blob/master/MyCodingDiary/MyCodingDiary.md) :date:
+
+<!--
+
 ### JAVA - 완료
 <details>
 <summary>내용 확인하기</summary>
@@ -32,7 +35,7 @@
 </details>
 <br>
 
-### JSP - 진행중(70%)
+### JSP - 진행중
 <details>
 <summary>내용 확인하기</summary>
 <div>
@@ -47,8 +50,8 @@
 </div>
 </details>
 <br>
-
-### Spring - 진행중
+-->
+### Spring
 <details>
 <summary>내용 확인하기</summary>
 <div>
@@ -59,11 +62,14 @@
 </div>
 </details>
 <br>
-
+<!--
 ### ANDROID - 진행중(20%)
 <details>
 <summary>내용 확인하기</summary>
 <div>
+-->
+
+<!--
 
 * [AndroidTest](https://github.com/wnsgudchl0302/TIL/blob/master/Android/AndroidTest.md)
 * [1. AndroidBaseApp(간단한 안드로이드 사용법 및 코드)](https://github.com/wnsgudchl0302/TIL/blob/master/Android/AndroidBaseApp.md)
@@ -75,4 +81,6 @@
 
 ### Coding Test
 - [Practice Test (Java)](https://github.com/wnsgudchl0302/TIL/blob/master/CodingTest/Java/PracticeTest_Java.md)
+
+-->
  

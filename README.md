@@ -56,8 +56,7 @@
 <summary>내용 확인하기</summary>
 <div>
 
-* [SpringTest](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/SpringTest.md)
-* [HTTP_Mehod](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/HTTP_Method.md)
+* [의존성 관리](https://github.com/wnsgudchl0302/TIL/blob/master/Spring/dependencyManagement.md)
 
 </div>
 </details>
